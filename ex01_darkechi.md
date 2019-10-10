@@ -1,6 +1,8 @@
 
 # Practical Example #1 - Darkechi Battle Portrait
 
+The reference for the portrait below was taken from a trailer for Persona 5 Royal.
+
 ## Creating the Background Mesh (PLG)
 
 **Step 0:** The mesh collection that contains the mesh to be replaced was imported into Blender.

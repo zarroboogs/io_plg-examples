@@ -1,6 +1,8 @@
 
 # Practical Example #2 - Sojiro Battle Portrait
 
+The reference for the portrait below was originally created by ScruffyTurtles.
+
 ## Creating the Background Mesh (PLG)
 
 **Step 0:** The mesh collection that contains the mesh to replace was imported into Blender.
