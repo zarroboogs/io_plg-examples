@@ -93,9 +93,9 @@ Alignment was done using the following EBOOT patch:
 p5_darkechiPortrait: &p5_darkechiPortrait
     - [ be32, 0x00B664C0, 51 ] # spdIdx (59)
     - [ be32, 0x00B664E8, 8 ] # plgIdx (7)
-    - [ be32, 0x00B66BCC, 52 ] # ailTopX (12)
-    - [ be32, 0x00B66BD4, -48 ] # ailBottomX (-28)
-    - [ be32, 0x00B66BD8, -14 ] # ailBottomY (36)
+    - [ bef32, 0x00B66BCC, 52 ] # ailTopX (12)
+    - [ bef32, 0x00B66BD4, -48 ] # ailBottomX (-28)
+    - [ bef32, 0x00B66BD8, -14 ] # ailBottomY (36)
 ```
 
 The final result is shown below.
